@@ -17,7 +17,7 @@
   <br>
 
 **Obiettivo:**
-**Cybersecurity Data Engineering** (Healthcare + NASA + Cyber).
+**Cybersecurity Data Engineering** 
 
 <br>
 
